@@ -1,0 +1,13 @@
+name: React
+version: 0.7.0
+description: Runtime for React applications
+license: Apache-2.0
+language: react
+maintainers:
+  - name: Chechu
+    email: chechuironman@gmail.com
+    github-id: chechuironman
+default-template: simple
+requirements:
+  docker-version: ">= 17.09.0"
+  appsody-version: ">= 0.2.7"
